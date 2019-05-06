@@ -218,7 +218,6 @@ class Header extends Component {
                     }
 
                 </Modal>
-
                     </div>
                 </header>
             </div>
