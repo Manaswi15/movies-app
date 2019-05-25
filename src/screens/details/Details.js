@@ -61,7 +61,7 @@ class Details extends Component {
     }
 
     backtohomeHandler(){
-        ReactDOM.render(<Home />, document.getElementById('root'));
+        ReactDOM.render(<Home  />, document.getElementById('root'));
     }
 
     starClickHandler = (id) => {
@@ -94,7 +94,7 @@ class Details extends Component {
 
         return (
             <div className="details">
-                <Header />
+                <Header showBookShowButton="true"/>
                 <div className="back">
                 <Typography onClick={this.backtohomeHandler}>
                     &#60; Back to Home

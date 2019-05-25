@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\common",
+    "\\src\\common\\header",
+    "\\src\\screens",
+    "\\src\\screens\\bookshow",
+    "\\src\\screens\\details",
+    "\\src\\screens\\home"
+  ],
+  "SelectedNode": "\\src\\screens\\bookshow\\Bookshow.js",
+  "PreviewInSolutionExplorer": false
+}
